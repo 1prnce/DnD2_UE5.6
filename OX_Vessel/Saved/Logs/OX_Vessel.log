@@ -1178,3 +1178,83 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.04-07.55.53:195][203]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1004.914062
 [2025.07.04-07.55.54:196][205]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.07.04-07.55.54:196][206]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1005.581421, Update Interval: 342.346252
+[2025.07.04-07.57.23:781][911]LogUObjectHash: Compacting FUObjectHashTables data took  44.33ms
+[2025.07.04-07.57.24:042][911]LogStreaming: Display: FlushAsyncLoading(474): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.04-07.57.24:435][911]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.10.dll
+[2025.07.04-07.57.24:494][911]LogChaosDD: Creating Chaos Debug Draw Scene for world WebsiteAnims_Vessel
+[2025.07.04-07.57.24:718][911]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/WebsiteAnims_Vessel.WebsiteAnims_Vessel
+[2025.07.04-07.57.24:730][911]Cmd: MAP LOAD FILE="D:/OceanX/DnD2_5.6/OX_Vessel/Content/Maps/WebsiteAnims_Vessel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.07.04-07.57.25:004][911]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.07.04-07.57.25:021][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.04-07.57.25:023][911]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2025.07.04-07.57.25:160][911]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.04-07.57.25:917][911]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2025.07.04-07.57.25:974][911]LogWorld: UWorld::CleanupWorld for WebsiteAnims_Vessel, bSessionEnded=true, bCleanupResources=true
+[2025.07.04-07.57.25:975][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.04-07.57.26:058][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.07.04-07.57.26:088][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.07.04-07.57.26:090][911]LogAudio: Display: Audio Device (ID: 1) registered with world 'WebsiteAnims_Vessel'.
+[2025.07.04-07.57.26:093][911]LogChaosDD: Creating Chaos Debug Draw Scene for world WebsiteAnims_Vessel
+[2025.07.04-07.57.26:639][911]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.07.04-07.57.26:760][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.07.04-07.57.26:793][911]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.07.04-07.57.26:796][911]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.718ms to complete.
+[2025.07.04-07.57.27:031][911]LoadErrors: Warning: While trying to load package /Game/Blueprints/Vessel_BP, a dependent package /Game/Jeronimo_Art/3D_Assets/Assets/Vehicles/Vessel/Vessel_Website was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Jeronimo_Art/3D_Assets/Assets/Vehicles/Vessel/Vessel_Website has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/OceanX/DnD2_5.6/OX_Vessel/Content/Jeronimo_Art/3D_Assets/Assets/Vehicles/Vessel/Vessel_Website'. Perhaps it has been deleted or was not synced?
+
+[2025.07.04-07.57.28:614][913]LogSlate: External Image Picker: DecompressImage failed
+[2025.07.04-07.57.29:423][914]LogPSOHitching: Encountered 300 PSO creation hitches so far (81 graphics, 219 compute). 0 of them were precached.
+[2025.07.04-07.57.31:591][961]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.07.04-07.57.50:460][ 35]LogStreaming: Display: FlushAsyncLoading(476): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.04-07.57.50:988][ 35]LogTexture: Display: Building textures: /Game/Jeronimo_Art/3D_Assets/Assets/Vehicles/Vessel/base_mid_mdl_others_baseColor.base_mid_mdl_others_baseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2025.07.04-07.57.51:018][ 35]LogTexture: Display: Building textures: /Game/Jeronimo_Art/3D_Assets/Assets/Vehicles/Vessel/Image_0.Image_0 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2025.07.04-07.57.51:118][ 35]LogStaticMesh: Display: Building static mesh Vessel_OXR_Highpoly__1_ (Required Memory Estimate: 1329.500563 MB)...
+[2025.07.04-07.57.51:191][ 35]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Jeronimo_Art/3D_Assets/Assets/Vehicles/Vessel/Vessel_OXR_Highpoly__1_) ...
+[2025.07.04-07.57.56:595][ 35]LogStaticMesh: Built static mesh [5.48s] /Game/Jeronimo_Art/3D_Assets/Assets/Vehicles/Vessel/Vessel_OXR_Highpoly__1_.Vessel_OXR_Highpoly__1_
+[2025.07.04-07.57.58:128][ 35]LogNavigation: Warning: Exporting collision geometry with too many triangles (745846). This might cause performance and memory issues. Add a simple collision or change GeometryExportVertexCountWarningThreshold. See 'StaticMeshComponent /Game/Maps/WebsiteAnims_Vessel.WebsiteAnims_Vessel:PersistentLevel.Vessel_BP_C_1.Vessel'.
+[2025.07.04-07.58.03:833][148]LogPSOHitching: Encountered 350 PSO creation hitches so far (113 graphics, 237 compute). 0 of them were precached.
+[2025.07.04-07.58.04:016][157]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.07.04-07.58.04:368][161]LogPSOHitching: Encountered 400 PSO creation hitches so far (144 graphics, 256 compute). 0 of them were precached.
+[2025.07.04-07.58.15:596][738]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.04-07.58.16:267][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/WebsiteAnims_Vessel" FILE="D:/OceanX/DnD2_5.6/OX_Vessel/Content/Maps/WebsiteAnims_Vessel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.07.04-07.58.17:474][738]LogUObjectHash: Compacting FUObjectHashTables data took  16.67ms
+[2025.07.04-07.58.18:003][738]LogSavePackage: Moving output files for package: /Game/Maps/WebsiteAnims_Vessel
+[2025.07.04-07.58.18:004][738]LogSavePackage: Moving 'D:/OceanX/DnD2_5.6/OX_Vessel/Saved/WebsiteAnims_VesselC0AE4890472F821FA2EABFB67F78418E.tmp' to 'D:/OceanX/DnD2_5.6/OX_Vessel/Content/Maps/WebsiteAnims_Vessel.umap'
+[2025.07.04-07.58.18:091][738]LogFileHelpers: Saving map 'WebsiteAnims_Vessel' took 1.912
+[2025.07.04-07.58.18:106][738]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.50 sec
+[2025.07.04-07.58.18:248][738]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.04-07.58.18:248][738]LogContentValidation: Enabled validators:
+[2025.07.04-07.58.18:249][738]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.04-07.58.18:249][738]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.04-07.58.18:249][738]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.04-07.58.18:249][738]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.04-07.58.18:249][738]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.04-07.58.18:250][738]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.04-07.58.18:254][738]AssetCheck: /Game/Maps/WebsiteAnims_Vessel Validating asset
+[2025.07.04-07.58.18:318][738]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/OceanX/DnD2_5.6/OX_Vessel/Saved/SourceControl/UncontrolledChangelists.json
+[2025.07.04-07.59.22:764][658]LogStreaming: Display: FlushAsyncLoading(477): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.04-07.59.22:848][658]LogStaticMesh: Display: Building static mesh Vessel_Website (Required Memory Estimate: 1551.992344 MB)...
+[2025.07.04-07.59.22:916][658]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Jeronimo_Art/3D_Assets/Assets/Vehicles/Vessel/Vessel_Website) ...
+[2025.07.04-07.59.26:911][658]LogStaticMesh: Built static mesh [4.08s] /Game/Jeronimo_Art/3D_Assets/Assets/Vehicles/Vessel/Vessel_Website.Vessel_Website
+[2025.07.04-07.59.28:260][658]LoadErrors: Warning: While trying to load package /Game/Jeronimo_Art/3D_Assets/Assets/Vehicles/Vessel/Vessel_Website, a dependent package /Game/Jeronimo_Art/3D_Assets/Assets/Vehicles/Vessel/Parallax_Circle_Small was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Jeronimo_Art/3D_Assets/Assets/Vehicles/Vessel/Parallax_Circle_Small has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/OceanX/DnD2_5.6/OX_Vessel/Content/Jeronimo_Art/3D_Assets/Assets/Vehicles/Vessel/Parallax_Circle_Small'. Perhaps it has been deleted or was not synced?
+
+[2025.07.04-07.59.28:261][658]LoadErrors: Warning: While trying to load package /Game/Jeronimo_Art/3D_Assets/Assets/Vehicles/Vessel/Vessel_Website, a dependent package /Game/Jeronimo_Art/3D_Assets/Assets/Vehicles/Vessel/Parallax_Square was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Jeronimo_Art/3D_Assets/Assets/Vehicles/Vessel/Parallax_Square has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/OceanX/DnD2_5.6/OX_Vessel/Content/Jeronimo_Art/3D_Assets/Assets/Vehicles/Vessel/Parallax_Square'. Perhaps it has been deleted or was not synced?
+
+[2025.07.04-07.59.32:401][892]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.04-07.59.32:498][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/WebsiteAnims_Vessel" FILE="D:/OceanX/DnD2_5.6/OX_Vessel/Content/Maps/WebsiteAnims_Vessel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.07.04-07.59.32:569][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.07.04-07.59.32:610][892]LogSavePackage: Moving output files for package: /Game/Maps/WebsiteAnims_Vessel
+[2025.07.04-07.59.32:611][892]LogSavePackage: Moving 'D:/OceanX/DnD2_5.6/OX_Vessel/Saved/WebsiteAnims_Vessel8B4EEFD34D7DAA1C8928B3A138BC6229.tmp' to 'D:/OceanX/DnD2_5.6/OX_Vessel/Content/Maps/WebsiteAnims_Vessel.umap'
+[2025.07.04-07.59.32:641][892]LogFileHelpers: Saving map 'WebsiteAnims_Vessel' took 0.144
+[2025.07.04-07.59.32:655][892]LogFileHelpers: InternalPromptForCheckoutAndSave took 254.108 ms (total: 2.76 sec)
+[2025.07.04-07.59.32:835][892]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.04-07.59.32:835][892]LogContentValidation: Enabled validators:
+[2025.07.04-07.59.32:835][892]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.04-07.59.32:835][892]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.04-07.59.32:835][892]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.04-07.59.32:835][892]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.04-07.59.32:835][892]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.04-07.59.32:835][892]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.04-07.59.32:835][892]AssetCheck: /Game/Maps/WebsiteAnims_Vessel Validating asset
