@@ -1167,3 +1167,7 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.04-07.39.20:628][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12.076272, Update Interval: 305.539124
 [2025.07.04-07.40.56:503][300]LogDerivedDataCache: C:/Users/xdfre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
 [2025.07.04-07.41.26:383][447]LogPSOHitching: Encountered 250 PSO creation hitches so far (69 graphics, 181 compute). 0 of them were precached.
+[2025.07.04-07.44.26:508][996]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 318.227509
+[2025.07.04-07.44.27:508][998]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.04-07.44.27:509][999]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 318.894348, Update Interval: 355.283051
+[2025.07.04-07.45.15:235][141]LogSlate: Took 0.006430 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
