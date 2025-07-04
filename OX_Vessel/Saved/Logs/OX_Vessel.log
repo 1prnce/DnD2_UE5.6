@@ -1172,3 +1172,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.04-07.44.27:509][999]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 318.894348, Update Interval: 355.283051
 [2025.07.04-07.45.15:235][141]LogSlate: Took 0.006430 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2025.07.04-07.48.38:941][753]LogAssetRegistry: Display: Package D:/OceanX/DnD2_5.6/OX_Vessel/Content/Maps/VesselFreeRoamTest_Map.umap uses an unknown custom version and cannot be loaded for the AssetRegistry
+[2025.07.04-07.50.26:592][ 75]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 678.312683
+[2025.07.04-07.50.27:594][ 79]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.04-07.50.27:595][ 79]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 678.979614, Update Interval: 319.294403
